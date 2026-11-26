@@ -9,3 +9,11 @@ Dockerfile
 docker-compose*.yml
 docs/
 README.md
+
+tests/
+requirements-dev.txt
+pyproject.toml
+.github/
+.pytest_cache/
+.ruff_cache/
+.trivyignore
